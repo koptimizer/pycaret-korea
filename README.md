@@ -1,2 +1,2 @@
 # pycaret-korea
-pycaret 한국어 설명서 / Korean description of pycaret
+- 외계인이 만든게 분명합니다.
